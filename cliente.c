@@ -1,6 +1,3 @@
-/* cliente.c
-   Elias P. Duarte Jr. */
-
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/socket.h>
